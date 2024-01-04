@@ -2,7 +2,7 @@
 
 # Tuiner
 A tiny little chromatic tuner for your terminal. This is a TUI app hence the
-name.
+name. This was mainly an explorative project and using it as an actual tuner would be difficult because it rounds to the nearest semitone.
 
 ## Building
 Out of this box this only works on Macs, unfortunately. Getting it to work on
