@@ -1,4 +1,4 @@
-OUTPUT = ./out/opentuner
+OUTPUT = ./out/tuiner
 CLIB = -I./lib/portaudio/include \
        -L./lib/portaudio/lib/.libs -lportaudio \
 	   -L/opt/homebrew/Cellar/fftw/3.3.10_1/lib \
