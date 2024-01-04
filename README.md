@@ -7,7 +7,7 @@ name.
 ## Building
 Out of this box this only works on Macs, unfortunately. Getting it to work on
 Linux should be as simple as changing the CoreAudio dependencies in the
-Makefile. Building is as easy as running `make`.
+Makefile. Building is as easy as running `make`. You also have to install the portaudio library to `lib/portaudio`
 
 ## How it works:
 I have a firm belief that the best way to figure out something works, is to
