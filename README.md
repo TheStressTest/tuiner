@@ -1,6 +1,6 @@
 <img width="749" alt="image" src="https://github.com/TheStressTest/tuiner/assets/73505616/6c1b0548-5845-4c73-a3f7-b7d49c1d3ef7">
 
-# Tuiner
+# *TUI*ner
 A tiny little chromatic tuner for your terminal. This is a TUI app hence the
 name. This was mainly an explorative project and using it as an actual tuner would be difficult because it rounds to the nearest semitone.
 
